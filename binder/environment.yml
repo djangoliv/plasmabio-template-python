@@ -30,3 +30,4 @@ dependencies:
   - pip:
     # Print module version
     - watermark
+    - jupyterlab_stop_server
